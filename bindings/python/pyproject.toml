@@ -1,5 +1,6 @@
 [project]
 name = 'safetensors'
+description = "a new simple format for storing tensors safely (as opposed to pickle) and that is still fast"
 requires-python = '>=3.7'
 authors = [
     {name = 'Nicolas Patry', email = 'patry.nicolas@protonmail.com'}
